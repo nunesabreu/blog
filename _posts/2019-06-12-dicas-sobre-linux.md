@@ -43,7 +43,7 @@ Abaixo algumas dicas do Linux que podem ser úteis.
 ## Dicas
 - A partir do SuSe 12.2 os serviços do sistema ficam em /lib/systemd/system com o nome \<nome\>.service. Os serviços do usuário devem ficar em /etc/systemd/system.
 - Exemplo de configuração do **logRotate**:
-```
+```console
 /dg/intelix/debug/asterisk/full {
 	compress
 	compresscmd /bin/tar
@@ -68,20 +68,20 @@ Abaixo algumas dicas do Linux que podem ser úteis.
 
 ### Criar um repositório no debian:
 1. Criar um novo diretório para os arquivos .deb: 
-	```
+	```console
 	# cp -Rv /var/cache/apt/archives/*.deb <novo_diretorio>
-	```
+	```console
 2. Criar arquivo nulo acima do novo repositório:
-	```
+	```console
 	# cd <novo_diretorio>/..
 	# touch <arquivo_nulo>
 	```
 3. Posicionar-se acima do novo repositório e gerar lista de pacotes: 
-	```
+	```console
 	# cd <novo_diretorio>/..
 	# dpkg-scanpackages debs <novo_repositorio> <arquivo_nulo> | gzip > <novo_repositorio>/Packages.gz
 	```
-4. Adicionar caminho do novo repositório no arquivo /etc/apt/sources.list. Exemplo: 
-	```
-	deb file:/opt/repositorio / 
+4. Adicionar caminho do novo repositório no arquivo /etc/apt/sources.list. Exemplo:
+	```console
+	deb file:/opt/repositorio /
 	```

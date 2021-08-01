@@ -20,7 +20,7 @@ url: 'https://nunesabreu.github.io'
 
 author: Nunes Aguiar de Abreu                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/avatar1.jpg   # support internet resources
 
 github:
   username: nunesabreu             # change to your github username
@@ -43,6 +43,7 @@ baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: America/Sao_Paulo
+
 
 # Prefer color scheme setting, available values:
 #
@@ -75,6 +76,12 @@ kramdown:
     block:
       line_numbers: true
       start_line: 1
+
+# Disqus comments
+disqus:
+  comments: false
+  shortname: blog-do-nu
+
 
 # DO NOT change this unless you're a Pro user on Jekyll and Web development,
 # or you think you're smart enough to change other relevant URLs within this template.

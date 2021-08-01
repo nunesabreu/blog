@@ -11,8 +11,8 @@ Abaixo descrevo alguns comandos úteis para sua utilização pela linha de coman
 
 ### Comandos para executal no shell
 
-- Iniciar uma máquina: ```VBoxManage startvm "Nome-da-VM" --type headless```
-- Parar uma máquina: ```VBoxManage controlvm "Nome-da-VM" acpipowerbutton```
+- Iniciar uma máquina: `VBoxManage startvm "Nome-da-VM" --type headless`
+- Parar uma máquina: `VBoxManage controlvm "Nome-da-VM" acpipowerbutton`
 - Listar as máquinas disponíveis: ```VBoxManage list vms```
 - Restaurar ao último snapshot: ```VBoxManage snapshot "Nome-da-VM" restorecurrent```
 - Desligar por ACPI (pressionar botão de desligar): ```VBoxManage controlvm "Nome-da-VM" acpipowerbutton && sleep 30```
