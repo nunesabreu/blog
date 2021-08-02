@@ -14,17 +14,17 @@
   path: tabs
   url: categories
 -
-  name: "Tipos"
+  name: "Tags"
   icon: "fas fa-tags"
   path: tabs
   url: tags
 -
-  name: "Arquivos"
+  name: "Arquivo"
   path: tabs
   url: archives
   icon: "fas fa-archive"
 -
-  name: "Sobre mim"
+  name: "Sobre"
   icon: "fas fa-info"
   path: tabs
   url: about
