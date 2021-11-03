@@ -1,5 +1,5 @@
 ---
-title: Anotações sobre Kubernetes
+title: Anotações sobre Kubernetess
 date: 2021-07-17T20:13:35-03:00
 category: Cloud
 tags: docker, kubernetes, devops
