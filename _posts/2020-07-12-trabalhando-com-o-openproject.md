@@ -15,7 +15,7 @@ Abaixo relaciono algumas dicas para trabalhar essa ferramenta.
 - No quadro da sprint, adicionar a histórias de usuário.
 - Ir nos pacotes de trabalho, acessar as histórias e criar as tarefas correspondentes.
 	 
-### Conceito o iniciação do projeto: 
+### Conceito e iniciação do projeto: 
 - Coletar ideias, especificar escopo e entregas 
 - Criar descrição do projeto e convidar membros
 	
