@@ -3,7 +3,7 @@ title: Dicas do Virtualbox
 date: 2019-04-03 09:45:13
 tags: virtualbox
 category: Dicas
-thumbnail: /images/thumb-virtualbox.jpg
+thumbnail: /assets/img/thumb-virtualbox.jpg
 ---
 
 O VirtualBox é uma ótima ferramenta para o gerenciamento de máquinas virtuais.

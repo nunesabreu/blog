@@ -3,7 +3,7 @@ title: Tenho um filho especial! E agora ?
 date: 2021-03-23T10:08:13-03:00
 tags: necessidades especiais, filhos excepcionais
 category: Família
-thumbnail: /images/filho_especial.png
+thumbnail: /assets/img/filho_especial.png
 ---
 
 Minha filha não fala, não mastiga, caminha com dificuldade, possui 9 graus de miopia, entre outras coisas. Ela ouve, mas não processa as informações, ou seja, não entende o que falo.

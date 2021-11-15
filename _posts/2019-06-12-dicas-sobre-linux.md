@@ -3,7 +3,7 @@ title: Dicas do Linux
 date: 2019-04-03 09:39:22
 tags: linux, dicas
 category: Sistemas Operacionais
-thumbnail: /images/thumb-linux.jpg
+thumbnail: /assets/img/thumb-linux.jpg
 ---
 
 Abaixo algumas dicas do Linux que podem ser úteis.

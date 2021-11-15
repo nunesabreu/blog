@@ -3,7 +3,7 @@ title: Trabalhando com o OpenProject
 date: 2019-04-03 09:39:22
 tags: gerenciamento de projetos, ferramentas
 category: Ferramentas
-thumbnail: /images/thumb-linux.jpg
+thumbnail: /assets/img/thumb-linux.jpg
 ---
 
 O [OpenProject](https://www.openproject.org) é uma solução completa para gerenciamento de projetos. Permite a utilização online (paga) ou opensource (instalação em um servidor próprio).
