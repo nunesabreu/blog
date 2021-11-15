@@ -23,7 +23,7 @@ Abaixo relaciono algumas dicas para trabalhar essa ferramenta.
 - Inserir informações detalhadas
 - Criar timeline
 - Criar pacotes de trabalho
-- Os projetos são compostos de pacotes de trabalho. Este são divididos em subprojetos, fases e tarefas. As tarefas são as atividades que devem ser executadas. 
+- Os projetos são compostos de pacotes de trabalho. Estes são divididos em subprojetos, fases e tarefas. As tarefas são as atividades que devem ser executadas. 
 
 ### Funcionamento:
 - Foi desenvolvido em ruby
