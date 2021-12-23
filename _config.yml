@@ -79,7 +79,7 @@ kramdown:
 
 # Disqus comments
 disqus:
-  comments: false
+  comments: true
   shortname: blog-do-nu
 
 
