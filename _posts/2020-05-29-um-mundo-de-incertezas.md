@@ -1,8 +1,8 @@
 ---
 title: Um mundo de incertezas
-tags: planejamento, previsões, prazos
-category: Reflexões
 thumbnail: /assets/img/incertezas.jpg
+categories: [Reflexões]
+tags: [planejamento, previsões, prazos]
 ---
 Não tenho certeza se estarei vivo amanhã. E você também não.
 Embora pareça uma afirmação pessimista ou fúnebre - ainda mais em tempos de pandemia, ambos sabemos que é a pura verdade. Basta alguma parte essencial do nosso corpo apresentar uma pequena falha, e todo o resto pode ser comprometido. Basta um carro desgovernado resolver invadir a sua pista para que o seu destino seja alterado tragicamente. Felizmente, a chance é pequena, remota, mas ainda assim existe, concorda ?

@@ -1,8 +1,8 @@
 ---
 title: Tenho um filho especial! E agora ?
 date: 2021-03-23T10:08:13-03:00
-tags: necessidades especiais, filhos excepcionais
-category: Família
+categories: [Família]
+tags: [necessidades especiais, filhos excepcionais]
 thumbnail: /assets/img/filho_especial.png
 ---
 

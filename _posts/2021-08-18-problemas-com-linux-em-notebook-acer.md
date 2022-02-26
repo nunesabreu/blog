@@ -1,8 +1,8 @@
 ---
 title: Problemas com Linux em notebook Acer com Intel RST
 date: 2021-08-18 21:13:00
-tags: notebook, hardware, acer, linux, ubuntu
-category: Dicas
+categories: [Dicas]
+tags: [notebook, hardware, acer, linux, ubuntu]
 thumbnail: 
 ---
 

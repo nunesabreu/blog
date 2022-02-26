@@ -1,8 +1,8 @@
 ---
 title: Livros que recomendo
 date: 2021-12-22 23:13:00
-tags: conhecimento
-category: Dicas
+categories: [Dicas]
+tags: [conhecimento, leitura]
 thumbnail: /assets/img/book.jpg
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: A arte do reconhecimento
 date: 2020-03-27 19:15:23
-tags: gratidão, reconhecimento, motivação
-category: Reflexões
 thumbnail: /assets/img/reconhecimento.png
+categories: [Reflexões]
+tags: [gratidão, reconhecimento, motivação]
 ---
 Você lembra da sensação de ter um trabalho elogiado ? Ou já tomou alguma atitude que lhe rendeu reconhecimento de seus colegas ou superiores ?
 
