@@ -1,18 +1,18 @@
 ---
 layout: compress
+swcache: true
 ---
 
 [
   {% for post in site.posts %}
   {
     "title": "{{ post.title | escape }}",
-    "url": "{{ site.baseurl }}{{ post.url }}",
+    "url": "{{ post.url | relative_url }}",
     "categories": "{{ post.categories | join: ', '}}",
     "tags": "{{ post.tags | join: ', ' }}",
     "date": "{{ post.date }}",
-    {% assign _content = post.content %}
-    {% include no-linenos.html %}
-    "snippet": "{{ _content | strip_html | strip_newlines | remove_chars | escape | truncate: 300 | replace: '\', '\\\\' }}"
+    {% include no-linenos.html content=post.content %}
+    "snippet": "{{ content | strip_html | strip_newlines | remove_chars | escape | replace: '\', '\\\\' }}"
   }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
