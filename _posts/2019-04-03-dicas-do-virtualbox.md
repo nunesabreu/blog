@@ -1,9 +1,12 @@
 ---
 title: Dicas do Virtualbox
 date: 2019-04-03 09:45:13
+author: 
+    name: Nunes Aguiar de Abreu
 tags: virtualbox
 category: Dicas
-thumbnail: /assets/img/thumb-virtualbox.jpg
+image: 
+    src: /assets/img/thumb-virtualbox.jpg
 categories: [Dicas]
 tags: [virtualbox]
 ---
