@@ -1,10 +1,7 @@
 ---
 title: A arte do reconhecimento
 date: 2020-03-27 19:15:23
-author: 
-    name: Nunes Aguiar de Abreu
-image: 
-    src: /assets/img/reconhecimento.png
+thumbnail: /assets/img/reconhecimento.png
 categories: [Reflexões]
 tags: [gratidão, reconhecimento, motivação]
 ---

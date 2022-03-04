@@ -1,10 +1,7 @@
 ---
 title: Dicas do Linux
 date: 2019-04-03 09:39:22
-author: 
-    name: Nunes Aguiar de Abreu
-image: 
-    src: /assets/img/thumb-linux.jpg
+thumbnail: /assets/img/thumb-linux.jpg
 categories: [Sistemas operacionais]
 tags: [Linux, dicas]
 ---

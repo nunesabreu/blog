@@ -1,9 +1,6 @@
 ---
 title: Um mundo de incertezas
-author: 
-    name: Nunes Aguiar de Abreu
-image: 
-    src: /assets/img/incertezas.jpg
+thumbnail: /assets/img/incertezas.jpg
 categories: [Reflexões]
 tags: [planejamento, previsões, prazos]
 ---
