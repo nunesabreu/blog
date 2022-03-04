@@ -1,7 +1,10 @@
 ---
 title: Trabalhando com o OpenProject
 date: 2019-04-03 09:39:22
-thumbnail: /assets/img/thumb-linux.jpg
+author: 
+    name: Nunes Aguiar de Abreu
+image: 
+    src: /assets/img/thumb-linux.jpg
 categories: [Ferramentas]
 tags: [gerenciamento de projetos, ferramentas]
 ---

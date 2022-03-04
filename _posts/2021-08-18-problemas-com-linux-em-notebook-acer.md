@@ -1,9 +1,10 @@
 ---
 title: Problemas com Linux em notebook Acer com Intel RST
 date: 2021-08-18 21:13:00
+author: 
+    name: Nunes Aguiar de Abreu
 categories: [Dicas]
 tags: [notebook, hardware, acer, linux, ubuntu]
-thumbnail: 
 ---
 
 Alguns notebook Acer possuem a tecnologia de armazenamento *Rapid Storage Tecnology* (RST), da Intel. Essa tecnologia permite a utilização de HD´s como se fossem uma única unidade, semelhante ao RAID do Linux.

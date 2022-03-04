@@ -1,9 +1,12 @@
 ---
 title: Livros que recomendo
 date: 2021-12-22 23:13:00
+author: 
+    name: Nunes Aguiar de Abreu
 categories: [Dicas]
 tags: [conhecimento, leitura]
-thumbnail: /assets/img/book.jpg
+image: 
+    src: /assets/img/book.jpg
 ---
 
 - [Gente Ansiosa](https://www.amazon.com.br/gp/product/B09B9KZN9P/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1): Não, não é um livro de autoajuda. Um assalto a banco não dá certo, o assaltante foge, entra em um apartamento onde estavam várias pessoas interessadas em alugá-lo. É uma narrativa com personagens muito interessantes, que prendem a atenção do leitor de uma forma bastante divertida. Vale a pena conferir.

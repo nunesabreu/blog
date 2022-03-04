@@ -59,7 +59,7 @@ post:
   read_time:
     unit: min
     prompt: read
-  relate_posts: Further Reading
+  relate_posts: Leitura recomendada
   share: Share
   button:
     next: Newer
