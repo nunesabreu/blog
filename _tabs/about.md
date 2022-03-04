@@ -1,13 +1,9 @@
 ---
-title: Sobre mim
-
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
+layout: archives
+title: Archives
+icon: fas fa-archive
+order: 4
 ---
-
 Meu nome é Nunes Aguiar de Abreu. Isso mesmo: "Nunes" é o nome, nesse caso.. 
 Moro em Garopaba, Santa Catarina.
 

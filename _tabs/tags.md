@@ -1,6 +1,5 @@
 ---
-layout: tags
-title: Tags
-icon: fas fa-tag
-order: 2
+title: About
+icon: fas fa-info-circle
+order: 4
 ---
