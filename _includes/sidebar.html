@@ -21,10 +21,7 @@
       </a>
     </div>
 
-    {% if site.theme_mode == 'dual' %}
-      {% include mode-toggle.html %} 
-    {% endif %}
-    
+    {% include mode-toggle.html %} 
 
     <div class="site-title mt-3">
       <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
@@ -58,7 +55,6 @@
 
   <div class="sidebar-bottom mt-auto d-flex flex-wrap justify-content-center align-items-center">
 
-    {% if site.theme_mode == 'dual' %}
       <button class="mode-toggle btn" aria-label="Switch Mode">
         <i class="fas fa-adjust"></i>
       </button>
@@ -66,7 +62,6 @@
       {% if site.data.contact.size > 0 %}
         <span class="icon-border"></span>
       {% endif %}
-    {% endif %}
 
     {% for entry in site.data.contact %}
       {% capture url %}
