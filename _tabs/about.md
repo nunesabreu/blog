@@ -1,9 +1,12 @@
 ---
-layout: archives
-title: Archives
+layout: page
+title: Sobre mim
+image: 
+    src: /assets/img/avatar3.jpg
 icon: fas fa-archive
 order: 4
 ---
+![](/assets/img/avatar3.jpg)
 Meu nome é Nunes Aguiar de Abreu. Isso mesmo: "Nunes" é o nome, nesse caso.. 
 Moro em Garopaba, Santa Catarina.
 

@@ -6,7 +6,7 @@ author:
 categories: [Família]
 tags: [necessidades especiais, filhos excepcionais]
 image: 
-    src: /assets/img/filho_especial.png
+    src: /assets/img/filhos_especiais.jpeg
 ---
 
 Minha filha não fala, não mastiga, caminha com dificuldade, possui 9 graus de miopia, entre outras coisas. Ela ouve, mas não processa as informações, ou seja, não entende o que falo.

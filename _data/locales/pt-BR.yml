@@ -62,13 +62,13 @@ post:
   relate_posts: Leitura recomendada
   share: Share
   button:
-    next: Newer
-    previous: Older
+    next: Próximo
+    previous: Anterior
     copy_code:
-      succeed: Copied!
+      succeed: Copiado!
     share_link:
-      title: Copy link
-      succeed: Link copied successfully!
+      title: Copiar link
+      succeed: Link copiado com sucesso!
   # pinned prompt of posts list on homepage
   pin_prompt: Pinned
 
