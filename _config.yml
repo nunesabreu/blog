@@ -98,7 +98,7 @@ comments:
     shortname: blog-do-nu   # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: https://github.com/nunesabreu/nunesabreu.github.io        # <gh-username>/<repo>
+    repo: nunesabreu/nunesabreu.github.io        # <gh-username>/<repo>
     issue_term: title   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
