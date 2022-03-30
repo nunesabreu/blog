@@ -20,4 +20,4 @@ Na vida pessoal, gosto bastante de esportes. Futebol, ciclismo, vôlei e tênis 
 Quanto aos hobbies, adoro música (sou um tecladista amador), gosto de viajar (quando sobra tempo) e estar junto com a família. 
 Tenho uma filha especial, a Helena, que faz parte dos meus melhores momentos.
 
-Como bom geminiano, gosto de ler, conversar e filosofar. A ideia deste blog e fazer fluir um pouco dessa necessidade... ;-)
+Como bom geminiano, gosto de ler, conversar e filosofar. A ideia deste blog é fazer fluir um pouco dessa necessidade... ;-)
