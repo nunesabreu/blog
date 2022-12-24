@@ -1,6 +1,6 @@
 ---
 title: Estória de Natal
-date: 2022-12-19 20:56:00
+date: 2022-12-24 16:56:00
 author: 
     name: Nunes Aguiar de Abreu
 categories: [Reflexões]
@@ -8,7 +8,7 @@ tags: [motivação, leitura]
 image: 
     src: /assets/img/book.jpg
 ---
-
+```
 Imagine uma linda fazenda, com árvores e rios
 Muitas frutas, plantações, grama verde,
 Além de muito animais, que neste lugar também moravam
@@ -81,3 +81,4 @@ Paira nas pequenas coisas que às vezes deixamos de lado
 Obrigado por ter lido, vou terminando afinal, essa pequena reflexão
 E aproveito pra desejar do fundo do coração
 Que você consiga passar um lindo e abençoado Natal. 
+```
