@@ -81,8 +81,8 @@ Era Domingo de Ramos, e no jovem jumento deslumbrado, Jesus Cristo ia sentado.
 ```
 Resolvi escrever esta estória porque, às vezes, a vida é leve, mas geralmente é pesada, 
 E por isso costumamos reclamar das várias pedras que surgem na nossa estrada
-Mas hoje, eu acredito que, se recolhermos essas pedras,
-Contruiremos uma escada, que nos levará à nossa melhor versão, ao melhor que podemos ser
+Mas hoje, eu acredito que, se recolhermos essas pedras, contruiremos uma escada, 
+Que nos levará à nossa melhor versão, ao melhor que podemos ser
 Talvez mais humildes, ou quem sabe com mais gratidão, mas sem dúvida pessoas melhores
 Capazes de perceber que o verdadeiro significado 
 Paira nas pequenas coisas que às vezes deixamos de lado
