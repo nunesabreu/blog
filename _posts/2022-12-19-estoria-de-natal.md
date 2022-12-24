@@ -28,7 +28,9 @@ E ali, era quando ele lembrava de coisas que tinha ouvido
 Estórias que outros animais contavam pela estrada
 E ele ainda se perguntava se eram boatos, ou se faziam sentido
 ```
+
 ![boi-falando-com-jumento](/assets/img/boi_falando_com_jumento.png)
+
 ```
 Certa vez um boi lhe falou que um grande fato testemunhou
 Enquanto estava em um rancho, perto de uma manjedoura
@@ -40,7 +42,9 @@ Que dava pra sentir, naquele lugar, uma paz imensa
 Como se em todo o rancho estivesse pairando
 Um divino e iluminado véu.
 ```
+
 ![natal](/assets/img/natal.png)
+
 ```
 E, por isso, toda noite o jumento olhava para cima
 Procurando, no céu estrelado, algum sinal, alguma coisa parecida
@@ -55,7 +59,9 @@ Mas ele jamais recusava qualquer desafio que aparecia na sua frente,
 Ele imediatamente levantava a cabeça, colocava um sorriso na cara
 E assim ele seguia, tocando sua vida adiante
 ```
+
 ![burro-trabalhando](/assets/img/burro_trabalhando.png)
+
 ```
 Mas, um dia, quando sol despontava no horizonte, e iluminava toda a vegetação
 Alguém veio buscar o jumento, com muita pressa e aflição
@@ -68,7 +74,9 @@ Era, na verdade, o seu dia de graça, o que ele tinha sempre esperado
 As histórias que ele ouviu, enfim ganharam significado
 Era Domingo de Ramos, e no jovem jumento deslumbrado, Jesus Cristo ia sentado.
 ```
+
 ![burro-trabalhando](/assets/img/jesus-over-donkey.png)
+
 ```
 Resolvi escrever esta estória porque, às vezes, a vida é leve, mas geralmente é pesada, 
 E por isso costumamos reclamar das várias pedras que surgem na nossa estrada
