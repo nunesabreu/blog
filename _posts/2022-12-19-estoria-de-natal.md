@@ -40,6 +40,8 @@ Que dava pra sentir, naquele lugar, uma paz imensa
 Como se em todo o rancho estivesse pairando
 Um divino e iluminado véu.
 
+![natal](/assets/img/natal.png)
+
 E, por isso, toda noite o jumento olhava para cima
 Procurando, no céu estrelado, algum sinal, alguma coisa parecida
 Porque ele sentia que isso mudaria sua vida
@@ -53,6 +55,8 @@ Mas ele jamais recusava qualquer desafio que aparecia na sua frente,
 Ele imediatamente levantava a cabeça, colocava um sorriso na cara
 E assim ele seguia, tocando sua vida adiante
 
+![burro-trabalhando](/assets/img/burro_trabalhando.png)
+
 Mas, um dia, quando sol despontava no horizonte, e iluminava toda a vegetação
 Alguém veio buscar o jumento, com muita pressa e aflição
 E, antes de saber o que estava acontecendo, o jovem jumento assustado já caminhava pela estrada
@@ -63,6 +67,8 @@ E então ele percebeu, que não existia ameaça,
 Era, na verdade, o seu dia de graça, o que ele tinha sempre esperado
 As histórias que ele ouviu, enfim ganharam significado
 Era Domingo de Ramos, e no jovem jumento deslumbrado, Jesus Cristo ia sentado.
+
+![burro-trabalhando](/assets/img/jesus-over-donkey.png)
 
 Resolvi escrever esta estória porque, às vezes, a vida é leve, mas geralmente é pesada, 
 E por isso costumamos reclamar das várias pedras que surgem na nossa estrada
