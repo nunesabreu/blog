@@ -65,7 +65,8 @@ E assim ele seguia, tocando sua vida adiante
 ```
 Mas, um dia, quando sol despontava no horizonte, e iluminava toda a vegetação
 Alguém veio buscar o jumento, com muita pressa e aflição
-E, antes de saber o que estava acontecendo, o jovem jumento assustado já caminhava pela estrada
+E, antes de saber o que estava acontecendo, 
+O jovem jumento assustado já caminhava pela estrada
 Vendo muita gente, com galhos de mato na mão, ao longo de todo o caminho
 Ele já imaginava que o seu dia havia chegado, 
 Morreria ali sozinho, mais um bicho sacrificado
