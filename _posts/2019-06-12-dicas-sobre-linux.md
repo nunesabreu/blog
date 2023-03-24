@@ -47,7 +47,7 @@ Abaixo algumas dicas do Linux que podem ser úteis.
 - A partir do SuSe 12.2 os serviços do sistema ficam em /lib/systemd/system com o nome \<nome\>.service. Os serviços do usuário devem ficar em /etc/systemd/system.
 - Exemplo de configuração do **logRotate**:
 ```console
-/dg/intelix/debug/asterisk/full {
+/home/meuapp/debug {
 	compress
 	compresscmd /bin/tar
 
