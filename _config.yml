@@ -111,8 +111,8 @@ comments:
   #  input_position:   # optional, default to 'bottom'
   #  lang:             # optional, default to the value of `site.lang`
   #commentbox: "5724864291799040-proj"   # project id
-  cusdis:
-    cusdis_app_id: d1b615c5-105a-4253-9f04-f3e34782df86 
+  #cusdis:
+  #  cusdis_app_id: d1b615c5-105a-4253-9f04-f3e34782df86 
 
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
