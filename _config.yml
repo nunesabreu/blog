@@ -92,7 +92,7 @@ avatar: '/assets/img/avatar3.jpg'
 toc: true
 
 comments:
-  active: cusdis        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: commentbox        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   #disqus:
   #  comments: true
@@ -110,7 +110,7 @@ comments:
   #  mapping:          # optional, default to 'pathname'
   #  input_position:   # optional, default to 'bottom'
   #  lang:             # optional, default to the value of `site.lang`
-  #commentbox: "5724864291799040-proj"   # project id
+  commentbox: 5760779328421888-proj   # project id
   #cusdis:
   #  cusdis_app_id: d1b615c5-105a-4253-9f04-f3e34782df86 
 
